@@ -26,4 +26,4 @@ Sigue estos pasos para clonar y ejecutar la aplicación en tu entorno local:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/gestion-productos-nextjs-cloudinary.git
+   git clone https://github.com/RaulEMiranda/CRUD-Cloudinary.git
